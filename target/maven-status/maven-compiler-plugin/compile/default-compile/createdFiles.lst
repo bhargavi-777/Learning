@@ -1,0 +1,8 @@
+com\qa\pages\ContactsPage.class
+com\qa\pages\LoginPage.class
+com\qa\pages\HomePage.class
+com\qa\Basetest\BaseTest.class
+com\qa\Basetestcom\qa\ExtentreportListener\ExtentReportListener.class
+com\qa\utilities\Utilities.class
+com\qa\pages\ForgotPage.class
+com\qa\utilities\WebEventListener.class

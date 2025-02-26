@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name ="CRMTest">
+<test name= "parallel">
+<classes>
+
+<class name = "com.qa.pagetest.LoginPageTest"/>
+<class name = "com.qa.pagetest.ContactsPageTest"/>
+<class name = "com.qa.pagetest.ForgotPageTest"/>
+</classes>
+</test>
+</suite>
+
